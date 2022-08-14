@@ -337,4 +337,9 @@
     <None Include=".gitignore" />
     <None Include="ReadMe.md" />
   </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Gym.NET" Version="0.1.0-alpha2" />
+    <PackageReference Include="libtorch-cpu" Version="1.11.0.1" />
+    <PackageReference Include="TorchSharp" Version="0.97.2" />
+  </ItemGroup>
 </Project>
